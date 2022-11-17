@@ -92,6 +92,7 @@ dns:
     - "+.stun.*.*"
     - "+.stun.*.*.*"
     - "+.stun.*.*.*.*"
+    - "+.pvp.net"
     - "heartbeat.belkin.com"
     - "*.linksys.com"
     - "*.linksyssmartwifi.com"
